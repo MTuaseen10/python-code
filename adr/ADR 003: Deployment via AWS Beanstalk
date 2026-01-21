@@ -1,0 +1,4 @@
+# ADR 003: Deployment via AWS Beanstalk
+
+**Status:** Proposed  
+**Decision:** Deploy backend using AWS Elastic Beanstalk and frontend via S3 + CloudFront for scalability and fast content delivery.  
